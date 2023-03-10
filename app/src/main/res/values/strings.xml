@@ -2,4 +2,15 @@
     <string name="app_name">SunnyWeather</string>
     <string name="background_image_view">background image view</string>
     <string name="input_address">输入地址</string>
+    <string name="forecast">预报</string>
+    <string name="sky_icon_view">sky icon view</string>
+    <string name="lifeIndex">生活指数</string>
+    <string name="cold_risk_image_view">cold risk image view</string>
+    <string name="cold">感冒</string>
+    <string name="dressing_image_view">dressing image view</string>
+    <string name="wear">穿衣</string>
+    <string name="ultraviolet_image_view">ultraviolet image view</string>
+    <string name="realtime_ultraviolet">实时紫外线</string>
+    <string name="car_wash">洗车</string>
+    <string name="carwashing_image_view">carWashing image view</string>
 </resources>

@@ -4,6 +4,9 @@ plugins {
 }
 
 android {
+    buildFeatures {
+        viewBinding true
+    }
     namespace 'com.sunnyweather.android'
     compileSdk 33
 
